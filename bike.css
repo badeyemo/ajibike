@@ -20,6 +20,7 @@ body {
 }
 
 .right_div{
+    background: url(./images/Barra.png);
     background: tomato;
     height: 1016px;
     width: 50%;
@@ -45,6 +46,8 @@ span{
     border: 1px solid black;
     display: flex;
     justify-content: space-evenly;
+    color: white;
+    padding: 20px 0;
 }
 
 
