@@ -1,7 +1,8 @@
 .parent_div {
-    border: 3px solid black;
+    border: 1px solid black;
     display: flex;
     flex-direction: row;
+    /* margin: 0; */
 
 }
 
@@ -9,7 +10,7 @@
     background: #d9d9d9;
     height: 300px;
     width: 50%;
-    /* margin-left: 20px; */
+    margin-left: 20px;
     padding: 20px;
 
 }
@@ -25,7 +26,8 @@
 #H1{
 
 }
-#H4{
+span{
+    color: tomato; 
 
 }
 
