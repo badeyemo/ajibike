@@ -8,7 +8,6 @@ body {
 }
 
 .parent_div {
-    /* border: 1px solid black; */
     display: flex;
     flex-direction: row;
 }
@@ -18,13 +17,14 @@ body {
     background: #d9d9d9;
     height: 1016px;
     width: 50%;
+
 }
 
 .right_div{
     background: tomato;
-    height: 500px;
+    height: 1016px;
     width: 50%;
-    /* padding: 20px; */
+    
 
 }
 
@@ -37,7 +37,8 @@ span{
 
 }
 
-#p{
+#H4 {
+    margin-bottom: 50px;
 
 }
 
