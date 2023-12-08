@@ -1,8 +1,19 @@
-.parent_div{
+.parent_div {
+    border: 3px solid black;
 
 }
 
 .left_div{
+    background: #d9d9d9;
+    height: 300px;
+    width: 50%;
+
+}
+
+.right_div{
+    background: tomato;
+    height: 300px;
+    width: 50%;
 
 }
 
