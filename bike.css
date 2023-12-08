@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.parent_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.left_div{
+    padding: 20px;
+    background: #d9d9d9;
+    height: 1016px;
+    width: 50%;
+}
+
+.right_div{
+    background: url(./images/IMG_20231208_070531_503.jpg );
+    background-size: cover;
+    background-position: left;
+    height: 1016px;
+    width: 50%;
+}
+
+.header-logo_1, .header-logo_2, .paragraph {
+    margin-bottom: 15px;
+}
+
+span{
+    color: tomato; 
+}
+
+.line{
+    background: tomato;
+    width: 224px;
+    height: 16px;
+    top: 889px;
+    left: 84px;
+}
+
+.link-holder {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    color: red;
+    padding: 15px 0;
+}
+
+
