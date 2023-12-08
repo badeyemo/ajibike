@@ -20,8 +20,9 @@ body {
 }
 
 .right_div{
-    background: url(./images/advert.jpg);
+    background: url(./images/IMG_20231208_070531_503.jpg );
     background-size: cover;
+    background-position: left;
     height: 1016px;
     width: 50%;
 }
@@ -46,7 +47,7 @@ span{
     border: 1px solid black;
     display: flex;
     justify-content: space-evenly;
-    color: brown;
+    color: red;
     padding: 15px 0;
 }
 
